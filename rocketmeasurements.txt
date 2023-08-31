@@ -1,0 +1,8 @@
+Top tube:
+	Inner Diameter: 55mm
+	Outer Diameter: 56mm
+	Length: 45.72cm 
+Bottom Tube:
+	Inner Diameter: 64mm
+	Outer Diameter: 65mm
+	Length: 45.72cm
